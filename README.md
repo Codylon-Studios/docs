@@ -1,3 +1,3 @@
 # Codylon Studios Documentation
 
-Documentation for almost all project Codylon Studios has done so far.
+Documentation for almost all projects Codylon Studios has done so far.
